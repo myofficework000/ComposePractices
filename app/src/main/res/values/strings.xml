@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">ComposeExercises</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="password_length">*must be greater than 8 and less than 25</string>
+    <string name="password_number">*must contain atleast one number</string>
+    <string name="password_upper_case">*must contain atleast one upper case</string>
+    <string name="password_lower_case">*must contain atleast one lower case</string>
+    <string name="password_special_character">*must contain atleast one special character</string>
+    <string name="login">Login</string>
 </resources>
