@@ -8,4 +8,9 @@
     <string name="password_lower_case">*must contain atleast one lower case</string>
     <string name="password_special_character">*must contain atleast one special character</string>
     <string name="login">Login</string>
+    <string name="menu">Menus</string>
+    <string name="about">About</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_and_conditions">Terms and Comditions</string>
+    <string name="support">Support</string>
 </resources>
